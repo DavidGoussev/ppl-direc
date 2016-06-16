@@ -5,14 +5,25 @@
 
 ### karma settings:
 
-install Karma, Jasmine core packages
+install Karma, Jasmine core packages:
+
+
 `npm install karma karma-jasmine jasmine-core karma-chrome-launcher --save-dev`
 
-globally install Karma CLI
+
+globally install Karma CLI:
+
+
 `npm install -g karma-cli`
 
-install Angular Mocks, loads specified ng module to be tested, as arg in Jasmine's beforeEach pre-test function
+
+install Angular Mocks, loads specified ng module to be tested, as arg in Jasmine's beforeEach pre-test function:
+
+
 `npm install angular angular-ui-router angular-mocks --save-dev`
 
-run initialization and set configs
+
+run initialization and set configs:
+
+
 `karma init`
