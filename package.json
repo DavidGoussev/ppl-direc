@@ -1,0 +1,24 @@
+{
+  "name": "ppl-direc",
+  "version": "0.0.1",
+  "description": "Personnel directory, Angular-development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dpg5000/ppl-direc.git"
+  },
+  "author": "dpg5000",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.7",
+    "angular-mocks": "^1.5.7",
+    "angular-ui-router": "^0.3.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
